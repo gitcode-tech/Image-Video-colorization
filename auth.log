@@ -1,0 +1,6 @@
+Oct 01 09:10:11 server sshd[1001]: Failed password for admin from 192.168.1.50 port 40211 ssh2
+Oct 01 09:10:15 server sshd[1002]: Failed password for admin from 192.168.1.50 port 40212 ssh2
+Oct 01 09:10:19 server sshd[1003]: Failed password for admin from 192.168.1.50 port 40213 ssh2
+Oct 01 09:10:24 server sshd[1004]: Failed password for admin from 192.168.1.50 port 40214 ssh2
+Oct 01 09:10:29 server sshd[1005]: Failed password for admin from 192.168.1.50 port 40215 ssh2
+Oct 01 09:11:00 server sshd[1006]: Accepted password for alice from 192.168.1.20 port 40220 ssh2
